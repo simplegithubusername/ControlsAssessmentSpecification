@@ -20,7 +20,7 @@ Dependencies
 Inputs
 ------
 #. :code:`GV12`: Sensitive data Inventory
-#. :code:`GV5`: Configuration Information
+#. :code:`GV3`: Configuration Standards
 
 Operations
 ----------
